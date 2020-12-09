@@ -1,0 +1,1 @@
+Requirements: python-dotenv, discord.py (with audio support)
